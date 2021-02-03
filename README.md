@@ -17,9 +17,7 @@ expected overall average job total delay.
 
 Decision choice: Suppose that all machines cost approximately the same and that the system
 has the opportunity to purchase one new machine with an eye toward efficiency improvement. You
-have to determine where you will fit the new machine. (You may use the results from the previous
-simulation, or run new simulations with the added machine. The latter will incur some penalty.)
+have to determine where you will fit the new machine. 
 
 
-
-<p><img src="https://drive.google.com/drive/folders/1NdAACbmFtoWY115x9XhqZIk6uh_799ZN" alt="Figure 1" width=60% height=50%></p>   | <p><img src="https://drive.google.com/drive/folders/1NdAACbmFtoWY115x9XhqZIk6uh_799ZN" alt="Input" width=60% height=50%></p>
+![image](https://drive.google.com/file/d/1Oc9OfqLD6VHB_TcCsmIukvxFM3MMpty3)
