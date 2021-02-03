@@ -21,5 +21,5 @@ have to determine where you will fit the new machine. (You may use the results f
 simulation, or run new simulations with the added machine. The latter will incur some penalty.)
 
 
-![Figure 1](https://drive.google.com/file/d/1Oc9OfqLD6VHB_TcCsmIukvxFM3MMpty3/view?usp=sharing)
-![Input](https://drive.google.com/file/d/1lAVniTGehEKcXCR4P_gzzKtO6ePHUWAV/view?usp=sharing)
+
+<p><img src="https://drive.google.com/drive/folders/1NdAACbmFtoWY115x9XhqZIk6uh_799ZN" alt="Figure 1" width=60% height=50%></p>   | <p><img src="https://drive.google.com/drive/folders/1NdAACbmFtoWY115x9XhqZIk6uh_799ZN" alt="Input" width=60% height=50%></p>
