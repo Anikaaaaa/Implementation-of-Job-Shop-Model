@@ -20,4 +20,5 @@ has the opportunity to purchase one new machine with an eye toward efficiency im
 have to determine where you will fit the new machine. 
 
 
-![image](https://drive.google.com/file/d/1Oc9OfqLD6VHB_TcCsmIukvxFM3MMpty3)
+![Figure 1](https://drive.google.com/uc?export=view&id=1Oc9OfqLD6VHB_TcCsmIukvxFM3MMpty3)
+![Input](https://drive.google.com/uc?export=view&id=1lAVniTGehEKcXCR4P_gzzKtO6ePHUWAV)
